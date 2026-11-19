@@ -1,0 +1,5 @@
+method,scope,operations,final_shared_value
+Dekker (2 participants),two-party demo,6,3
+Peterson (2 participants),two-party demo,6,3
+Semaphore,multiple readers/writers,5,2
+Monitor,multiple readers/writers,5,2

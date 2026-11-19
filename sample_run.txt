@@ -1,0 +1,4 @@
+Dekker (2 participants) : 6 operations; final value 3
+Peterson (2 participants) : 6 operations; final value 3
+\n Semaphore events: [('R1', 'READ', 0), ('R2', 'READ', 0), ('R3', 'READ', 0), ('W1', 'WRITE', 1), ('W2', 'WRITE', 2)] final value: 2
+\n Monitor events: [('R1', 'READ', 0), ('W1', 'WRITE', 1), ('W2', 'WRITE', 2), ('R2', 'READ', 2), ('R3', 'READ', 2)] final value: 2
